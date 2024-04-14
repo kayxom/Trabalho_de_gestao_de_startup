@@ -81,7 +81,7 @@ form{
     flex-direction: column;
     width: 70%;}
 
-    form [type="submit"]{   /*aqui esta apenas formatando este formulario*/
+    form [type="submit"]{   /*aqui esta apenas formatando deste formulario*/
         height: 60px;
         width: 60%;
         background-color: blueviolet;
@@ -104,3 +104,8 @@ form{
            margin: 10px 0px 0px 0px;
        }
 
+button{
+    height: 29px;
+    width: 190px;
+    border-radius:13px;
+}
